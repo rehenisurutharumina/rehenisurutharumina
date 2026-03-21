@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -154,9 +154,9 @@ A smart job portal that connects employers with job seekers, featuring profile m
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN) |
-| 📧 Email | your.email@gmail.com |
-| 💻 GitHub | [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
+| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/rehenisuru-tharumina-182642374/) |
+| 📧 Email | tharuavgr@gmail.com |
+| 💻 GitHub | [https://github.com/rehenisurutharumina/rehenisurutharumina) |
 
 </div>
 
