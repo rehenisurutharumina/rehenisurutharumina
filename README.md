@@ -1,6 +1,6 @@
 <-- Profile Header -->
 <-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Rehenisuru%20Tharumina]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 </div> -->
 
 <div align="center">
@@ -114,23 +114,23 @@ A smart job portal that connects employers with job seekers, featuring profile m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d084&icon_color=00d084&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d084&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehenisurutharumina&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d084&icon_color=00d084&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehenisurutharumina&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d084&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=00d084&ring=00d084&fire=00d084&currStreakLabel=00d084" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehenisurutharumina&theme=radical&hide_border=true&background=0d1117&stroke=00d084&ring=00d084&fire=00d084&currStreakLabel=00d084" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00d084&line=00d084&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rehenisurutharumina&bg_color=0d1117&color=00d084&line=00d084&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rehenisurutharumina&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
