@@ -1,5 +1,5 @@
-<!-- Profile Header -->
-<!-- <div align="center">
+<-- Profile Header -->
+<-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 </div> -->
 
@@ -22,22 +22,9 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class Developer {
 
-    String name        = "Your Name";
-    String role        = "Software Engineering Student";
-    String university  = "Your University";
-    String[] focus     = {"Full-Stack Development", "Backend Engineering", "System Design"};
-    boolean openToWork = true;
-
-    String[] currentlyLearning = {"Spring Boot", "React", "System Design", "Cloud"};
-
-    String contact() { return "your.email@gmail.com"; }
-}
-```
-
-- 🎓 Studying **Software Engineering** at *[Your University]*
+- 🎓 Studying Bsc(hons) in
+Computer Science at SLIIT
 - 🔭 Currently building **full-stack applications** with Spring Boot + React
 - 🌱 Always learning — currently exploring **microservices & cloud deployment**
 - 💬 Ask me about **Java, Spring Boot, React, MySQL, or Python**
