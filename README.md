@@ -1,5 +1,4 @@
-<-- Profile Header -->
-<-- <div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20Rehenisuru%20Tharumina%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 </div> 
 
@@ -17,7 +16,7 @@
 </div>
 
 <br/>
----
+
 
 
 ## 🧑‍💻 About Me
@@ -107,7 +106,7 @@ A smart job portal that connects employers with job seekers, featuring profile m
 </tr>
 </table>
 
-> 💡 *Explore all my projects → [github.com/YOUR_USERNAME?tab=repositories](https://github.com/YOUR_USERNAME?tab=repositories)*
+> 💡 *Explore all my projects → [github.com/YOUR_USERNAME?tab=repositories](https://github.com/rehenisurutharumina?tab=repositories)*
 
 ---
 
