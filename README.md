@@ -1,16 +1,16 @@
 <-- Profile Header -->
 <-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20[Your%20Name]%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 </div> -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rehenisuru-tharumina-182642374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:tharuavgr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/rehenisurutharumina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00d084" />
