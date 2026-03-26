@@ -1,6 +1,8 @@
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a4a3a,100:00d084&height=200&section=header&text=Hi%20there%2C%20I'm%20Rehenisuru%20Tharumina%20👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
-</div> 
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00D084&center=true&vCenter=true&width=600&lines=building%20things%20that%20work%20beyond%20localhost;turning%20coffee%20into%20code%20☕;dockerizing%20at%20unreasonable%20hours%20🐳;currently%20debugging%20life%20and%20code)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rehenisuru-tharumina-182642374/">
