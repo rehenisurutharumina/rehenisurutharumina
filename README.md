@@ -67,46 +67,69 @@ Computer Science at SLIIT
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Laboratory Management System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/lab-management-system)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### 💼 PathFinder — Internship & Job Placement System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rehenisurutharumina/pathfinder-job-portal)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-A full-stack system for managing laboratory operations including resource booking, inventory tracking, and user role management.
+A scalable full-stack platform for internship and job placement, supporting multiple user roles with secure authentication and real-time application tracking.
 
 **Key features:**
-- 🔐 Role-based access control (Admin, Student, Staff)
-- 📅 Equipment booking & scheduling
-- 📊 Inventory & usage reports
-- 🔔 Email notifications via Spring Mail
+- 🔐 JWT authentication with forgot password functionality
+- 🤖 AI-powered analytics for application insights
+- 🔍 Advanced job filtering, search, and pagination
+- 📄 CV upload and application tracking system
+- ⚙️ Production-ready deployment configuration
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 💼 PathFinder — Job Portal System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/pathfinder-job-portal)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+### 🍃 GreenLeaf Tea Factory Management System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rehenisurutharumina/greenleaf-system)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-A smart job portal that connects employers with job seekers, featuring profile management, job matching, and application tracking.
+A role-based factory management system designed to streamline inventory, orders, and operational workflows.
 
 **Key features:**
-- 👤 Candidate & employer profiles
-- 🔍 Smart job search & filtering
-- 📄 Application tracking pipeline
-- 📬 Real-time status notifications
+- 🔐 JWT-based authentication and role-based access control
+- 📦 Inventory and stock management system
+- 🧾 Order processing and workflow management
+- 📊 Admin and staff dashboards
+- 🔄 Quote request and approval workflow with status tracking
 
-</td>
-</tr>
-</table>
+---
+
+### 🏦 Banking Web Application
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rehenisurutharumina/banking-app)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A secure banking system with transaction management and approval workflows.
+
+**Key features:**
+- 🔐 JWT authentication with role-based access control
+- 💰 Account management and transaction tracking
+- 📄 Deposit request workflow with slip upload
+- ✅ Staff approval system for secure transactions
+
+---
+
+### 🏨 Hotel Management System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rehenisurutharumina/hotel-system)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A full-stack hotel management platform for booking, services, and operations.
+
+**Key features:**
+- 🔐 Multi-role authentication with Spring Security
+- 🛏️ Room booking and reservation system
+- 🍽️ Food ordering and service management
+- ⚙️ Layered architecture for scalability
 
 > 💡 *Explore all my projects → [github.com/YOUR_USERNAME?tab=repositories](https://github.com/rehenisurutharumina?tab=repositories)*
 
